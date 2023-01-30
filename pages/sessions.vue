@@ -12,7 +12,7 @@ const sessions = [
 </script>
 
 <template>
-  <div>
+  <div class="sessions">
     Sessions
 
     <ul>
