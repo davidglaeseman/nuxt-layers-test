@@ -29,5 +29,5 @@ const sessions = [
   </div>
 </template>
 <style>
-.sessions a{background:#333; color#fff;}
+.sessions a{background:#333; color:#fff;}
 </style>
