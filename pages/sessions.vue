@@ -13,7 +13,8 @@ const sessions = [
 
 <template>
   <div class="sessions">
-    Sessions
+    <h1>Sessions</h1>
+    <h2> Testing 123 </h2>
 
     <ul>
       <li v-for="session in sessions">
